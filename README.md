@@ -22,7 +22,7 @@ ___
 - Anatomical and Physiological Data Management
 
 ### How to reach me...
-Contact me over Github, Mastodon (<a href="https://equestria.social/@fanney" rel="nofollow">@fanney@equestria.social</a>)
+Contact me over Github, Mastodon (<a rel="me" href="https://equestria.social/@fanney">@fanney@equestria.social</a>)
 
 <a rel="me" href="https://equestria.social/@fanney">Mastodon</a>
 
