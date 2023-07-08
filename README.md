@@ -1,6 +1,4 @@
 ### Hi, I'm Fanney :purple_heart:
-___
-
 Computer engineering student with a passion for cyber security.
 
 ### Skills :eyes: :
