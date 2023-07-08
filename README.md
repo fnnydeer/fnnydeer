@@ -21,7 +21,7 @@ ___
 - Control System
 - Anatomical and Physiological Data Management
 
-### How to reach me...
+### 📫 How to reach me...
 ___
 Contact me over Github, <a rel="me" href="https://equestria.social/@fanney">Mastodon</a>
 
