@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi, I'm Fanney :purple_heart:
+---
+Computer engineering student with a passion for cyber security.
+---
+### Skills :eyes: :
+---
+- Java
+- C/C++
+- Pyhton (still learning)
+- VHDL
+- Assembly 
 
 <!--
 **fnnydeer/fnnydeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
