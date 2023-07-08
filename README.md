@@ -16,6 +16,7 @@ Computer engineering student with a passion for cyber security.
 - Social Engineering
 - Physics
 - Control System
+- Anatomical and Physiological Data Management
 
 <!--
 **fnnydeer/fnnydeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
