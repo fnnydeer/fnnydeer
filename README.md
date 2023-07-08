@@ -7,7 +7,15 @@ Computer engineering student with a passion for cyber security.
 - C/C++
 - Pyhton (still learning)
 - VHDL
-- Assembly 
+- Assembly
+- Operating system
+
+### I am interested in:
+- Penetration Testing
+- Bug Bounty Hunting
+- Social Engineering
+- Physics
+- Control System
 
 <!--
 **fnnydeer/fnnydeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
