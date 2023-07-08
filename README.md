@@ -22,9 +22,7 @@ ___
 - Anatomical and Physiological Data Management
 
 ### How to reach me...
-Contact me over Github, Mastodon (<a rel="me" href="https://equestria.social/@fanney">@fanney@equestria.social</a>)
-
-<a rel="me" href="https://equestria.social/@fanney">Mastodon</a>
+Contact me over Github, <a rel="me" href="https://equestria.social/@fanney">Mastodon</a>
 
 <!--
 **fnnydeer/fnnydeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
